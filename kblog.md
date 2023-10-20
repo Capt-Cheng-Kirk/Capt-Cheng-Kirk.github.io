@@ -1,7 +1,7 @@
 ---
 layout: post
 title: K Blog
-description: Lorem ipsum dolor est
+description: The Way I Think
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

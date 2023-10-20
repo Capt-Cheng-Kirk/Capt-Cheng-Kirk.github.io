@@ -17,7 +17,7 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venen
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Allposts</h2>
+			<h2>All Posts</h2>
 		</header>
 		<p></p>
 		<ul class="actions">

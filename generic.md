@@ -21,7 +21,7 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venen
 		</header>
 		<p></p>
 		<ul class="actions">
-			<li><a href="allposts.html" class="button next">View all Kirk posts</a></li>
+			<li><a href="all_posts.html" class="button next">View all Kirk posts</a></li>
 		</ul>
 	</div>
 </section>

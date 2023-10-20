@@ -3,7 +3,7 @@ title: Kirk Essence
 subtitle: by Kirk Cheng
 email: chengkirk0215@gmail.com
 description: Discover the way of Kirk
-baseurl:  "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road

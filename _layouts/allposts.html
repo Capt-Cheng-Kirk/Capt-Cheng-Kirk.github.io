@@ -27,7 +27,7 @@
             <div style="display: flex; justify-content: space-between;">
                 <!-- Changed post title to h2 -->
                 <h2 style="margin: 0;">{{post.title}}</h2>
-                <button class="toggle-button" onclick="toggleContent(this)">Toggle Content</button>
+                <button class="toggle-button" onclick="toggleContent(this)">Show Content</button>
             </div>
             <div class="post-content" style="display:none;">
                 {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}

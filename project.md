@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Projects (Page under Construction)
 layout: landing
 description: 'The Way I do'
 image: assets/images/pic07.jpg

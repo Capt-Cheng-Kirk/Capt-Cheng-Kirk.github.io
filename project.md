@@ -1,5 +1,5 @@
 ---
-title: Project
+title: Projects
 layout: landing
 description: 'The Way I do'
 image: assets/images/pic07.jpg

@@ -22,13 +22,13 @@
 		    <div style="display: flex; justify-content: space-between;">
 			    <h1 style="margin: 0;">{{post.title}}</h1>
 			    <button class="toggle-button" onclick="toggleContent(this)">Toggle Content</button>
+			    <div class="post-content" style="display:none;">
+				    {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
+				    {% if post.date %}<p>{{ post.date }}</p>{% endif %}
+				    <p>{{ post.content }}</p>
+			    </div>
 		    </div>
-            <div class="post-content" style="display:none;">
-	      {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-	      {% if post.date %}<p>{{ post.date }}</p>{% endif %}
-	      <p>{{ post.content }}</p>
-            </div>
-            </div>
+	    </div>
           </div>
 	  {% endif %}
           {% endfor %}

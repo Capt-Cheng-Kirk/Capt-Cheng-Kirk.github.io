@@ -27,8 +27,6 @@
                 {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
                 {% if post.date %}<p>{{ post.date }}</p>{% endif %}
                 <p>{{ post.content }}</p>
-                <!-- Duplicate Toggle Button at the bottom -->
-                <button class="toggle-button bottom-button" onclick="toggleContent(this)" style="display:none;">Toggle Content</button>
             </div>
         </div>
           </div>
@@ -46,29 +44,15 @@
   <!-- Include this script before closing the body tag -->
   <script type="text/javascript">
     function toggleContent(button) {
-      var content;
-      var bottomButton;
-      if(button.classList.contains('toggle-button')) {
-        // For the top button
-        content = button.parentElement.nextElementSibling;
-        bottomButton = content.querySelector('.bottom-button');
-      } else {
-        // For the bottom button
-        content = button.parentElement;
-        bottomButton = button;
-        button = content.previousElementSibling.querySelector('.toggle-button');
-      }
+      var content = button.parentElement.nextElementSibling;
       if(content.style.display === "none" || content.style.display === "") {
         content.style.display = "block";
         button.innerText = "Hide Content";
-        bottomButton.style.display = "block";  // Show the bottom button
       } else {
         content.style.display = "none";
         button.innerText = "Toggle Content";
-        bottomButton.style.display = "none";  // Hide the bottom button
       }
     }
   </script>
 
 </html>
-

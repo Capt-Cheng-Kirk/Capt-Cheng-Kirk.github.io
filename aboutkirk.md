@@ -2,7 +2,7 @@
 layout: post
 title: AbouT
 description: "All you need to know about Kirk and this website"
-image: none
+image: assets/images/pic01.jpg
 nav-menu: true
 ---
 
@@ -10,5 +10,4 @@ Welcome to my website! I'm Kirk, an 18-year-old student from Shanghai, currently
 
 The site is built on Forty, an open-source Jekyll theme, and hosted on GitHub. I've customized the theme to meet my own requirements. If you encounter any issues or have feedback while browsing, please feel free to contact me.
 
-![Self-Portrait](assets/images/pic01.jpg)
 

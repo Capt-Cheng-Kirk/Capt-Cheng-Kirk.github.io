@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>My Projects/h2>
+			<h2>My Projects</h2>
 		</header>
 		<p>Not yet finished</p>
 	</div>

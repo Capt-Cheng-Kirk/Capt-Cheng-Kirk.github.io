@@ -28,9 +28,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Project 01</h3>
+					<h3>The Hi-Fi Audio System</h3>
 				</header>
-				<p>Project Description 01</p>
+				<p>Four-year experience and understanding of a High Fidelity Audio System</p>
 				<ul class="actions">
 					<li><a href="project01.html" class="button">Learn more</a></li>
 				</ul>

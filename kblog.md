@@ -6,9 +6,8 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-Blogs are magical: they help you to look back, not just recalling dots of past memories, but helping you to organize and use your memories. They serve as both a mirror and a map, reflecting who you are while helping you navigate where you're going. The act of writing a blog post isn't just about jotting down thoughts or sharing information; it's an exercise in clarity, a way to make sense of your experiences and ideas. In retrospect, scrolling through past blog posts becomes like leafing through a digital diary, allowing you to revisit and reassess different phases of your life. 
+Blogs are magical: they help you to look back, not just recalling dots from the past, but also enlighting your paths. They serve as both a mirror and a map, reflecting who you are while navigating you to a new destination. The act of writing a blog post isn't just about jotting down thoughts or sharing information; it's an exercise in clarity, a way to make sense of your ideas, and a reassess of different phases of your life. 
 
-The beauty of a blog is in its dual function as a personal archive and a public platform. It helps you crystallize your thoughts and memories, making them accessible not just to you but also to others who might find them valuable or relatable.
 
 *Photo shot on Jeju Island, 2023.7
 

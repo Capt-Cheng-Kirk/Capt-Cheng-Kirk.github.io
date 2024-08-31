@@ -1,9 +1,9 @@
 ---
 layout: post
-title: project01
-description: test project page
+title: The Hi-Fi System
+description: Five-year experience and understanding of High Fidelity Audio System
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-aaaaaaaaaaa
+
